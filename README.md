@@ -1,2 +1,2 @@
 # gophercises
-gophercises
+Solutions to gophercises
