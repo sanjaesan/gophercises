@@ -12,8 +12,8 @@ import (
 const (
 	host     = "localhost"
 	port     = 5432
-	user     = "sanjaesan"
-	password = "ubuntu50?"
+	user     = ""
+	password = ""
 	dbname   = "phone_db"
 )
 
